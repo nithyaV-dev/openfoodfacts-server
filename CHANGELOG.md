@@ -1,5 +1,12 @@
 # Changelog
 
+## [2.88.2](https://github.com/openfoodfacts/openfoodfacts-server/compare/v2.88.1...v2.88.2) (2026-02-20)
+
+
+### Bug Fixes
+
+* remove most displayed warnings in prod ([#13091](https://github.com/openfoodfacts/openfoodfacts-server/issues/13091)) ([2f8e860](https://github.com/openfoodfacts/openfoodfacts-server/commit/2f8e860206cea1059f6f4e26c3052c45271d1a46))
+
 ## [2.88.1](https://github.com/openfoodfacts/openfoodfacts-server/compare/v2.88.0...v2.88.1) (2026-02-18)
 
 
